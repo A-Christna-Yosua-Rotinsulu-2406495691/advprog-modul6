@@ -1,0 +1,13 @@
+/target/
+**/*.rs.bk
+
+flycheck_*.rs
+hello\target\
+
+.env
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
